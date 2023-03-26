@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning algorithm and Vue-framework
 - 📫 How to reach me: Maybe you can leave a message in the issue
 - 😄 Pronouns: 桂花菌 :unicorn:
-- :bulb: Hobby:volleyball: :basketball: :ping_pong: :badminton: :headphones:
+- :bulb: Hobby: :volleyball: :basketball: :ping_pong: :badminton: :headphones:
 - ⚡ Happy fact: You are looking at my homepage :clinking_glasses: 
 --- 
         :battery: **I am currently studying at a high speed and hope to work for my dream company in the future!**
